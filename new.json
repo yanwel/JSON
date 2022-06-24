@@ -1,4 +1,8 @@
-first
-second
-3
-4
+{
+"name":"Yan",
+"secname": "Anat",
+"surname":"Svarch",
+"age": 23,
+"pets":0,
+"wishsallry":1000
+}
